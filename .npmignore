@@ -1,0 +1,6 @@
+creds.json
+node_modules
+.DS_Store
+.env
+test-message.jsonc
+tests

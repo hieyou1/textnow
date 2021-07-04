@@ -1,6 +1,6 @@
 {
     "name": "textnow",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "An easy way to text, now.",
     "main": "index.js",
     "scripts": {

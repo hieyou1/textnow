@@ -11,5 +11,4 @@ Requires an active [TextNow account](https://textnow.com).
 ## Usage
 See the [docs](https://github.com/hieyou1/textnow/blob/master/docs.md), not sure if I did them correctly though, open a PR or issue if you can do it better
 
-## TODO
-Calls via [node-webrtc](https://github.com/node-webrtc/node-webrtc) [status: working on it!]
+## Note

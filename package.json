@@ -15,7 +15,7 @@
         "fetch-cookie": "^1.0.0",
         "form-data": "^4.0.0",
         "libphonenumber-js": "^1.9.21",
-        "node-fetch": "^2.6.1",
+        "node-fetch": "^3.0.0",
         "node-jssip": "file:../jssip",
         "open": "^8.2.1",
         "prompts": "^2.4.1",
